@@ -8,7 +8,3 @@ Instructions:
 
 1. Click the "play" button.
 2. Beat the dealer.
-
-## Screenshot
-
-![blackjack](https://dl.dropboxusercontent.com/u/78338927/Screenshots/Blackjack.PNG)
